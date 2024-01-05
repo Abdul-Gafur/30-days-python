@@ -6,7 +6,7 @@ print("I am learning Python")
 print("I am enjoying Python")
 
 
-#variables
+#variables example
 x = 5
 y = "Hello, World!"
 print(x)
