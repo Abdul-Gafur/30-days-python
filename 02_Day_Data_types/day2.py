@@ -35,3 +35,6 @@ z = 1j  # complex
 convertx = float(x)
 print(type(convertx))
 
+### Random Number
+import random
+print(random.randrange(1, 10))
