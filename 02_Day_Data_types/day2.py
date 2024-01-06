@@ -38,3 +38,18 @@ print(type(convertx))
 ### Random Number
 import random
 print(random.randrange(1, 10))
+
+### Python Casting
+x = int(1)
+y = int(1.3)
+z = int("3")
+
+# Floats
+x = float(2)
+y = float(3.4)
+
+### Python Strings
+x =  2+3
+greet = "Hello, world!"
+print(x)
+print("x")
