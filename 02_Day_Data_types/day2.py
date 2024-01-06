@@ -22,4 +22,16 @@ x = range(6) # Range datatype
 x = {"name": "John", "age": 30} # Dictionary datatype
 x = True # Boolean datatype
 
-print(x) 
+# print(type(x))
+
+### Numeric datatype
+# int, float, complex
+
+### Type conversions
+x = 1 # int
+y = 2.8 # float
+z = 1j  # complex
+
+convertx = float(x)
+print(type(convertx))
+
